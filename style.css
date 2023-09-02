@@ -116,10 +116,10 @@ span{
     width: 96%;
 }
 
-/* image section */
+/* main image section */
 .image{
     height: 330px;
-    background-image: url(hero_img_.jpg);
+    background-image: url(main_img_.jpg);
     background-size: cover;
     display: flex;
     justify-content:center ;
